@@ -70,5 +70,3 @@ Xcode 8.3.3, iOS 10.0 SDK
 ### Runtime
 
 iOS 9.3.3 or later
-
-Copyright (C) 2013 - 2017 Apple Inc. All rights reserved.
