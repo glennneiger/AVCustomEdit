@@ -65,8 +65,8 @@ A subclass of APLMetalRenderer, renders the given source buffers to perform a cr
 
 ### Build
 
-Xcode 8.3.3, iOS 10.0 SDK
+Xcode 9 Beta, iOS 11.0 SDK
 
 ### Runtime
 
-iOS 9.3.3 or later
+iOS 11
